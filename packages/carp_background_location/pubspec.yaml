@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  background_locator2: 2.0.5
+  background_locator_2: ^{latest_version}
 
 dev_dependencies:
   flutter_test:
