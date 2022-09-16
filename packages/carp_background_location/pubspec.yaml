@@ -11,7 +11,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  background_locator_2: ^2.0.5
+  background_locator_2:
+    git:
+      url: https://github.com/hieudz/background_locator_fixed
+
+dependency_overrides:
+#  background_locator2:
+#    git:
+#      url: https://github.com/hieudz/background_locator_fixed
+#      url: https://github.com/Yukams/background_locator_fixed
+#      ref: 652fc025ca0d39d43afa62e2aacef64aa5f6a147
 
 dev_dependencies:
   flutter_test:
