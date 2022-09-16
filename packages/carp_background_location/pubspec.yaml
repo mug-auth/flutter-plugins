@@ -18,10 +18,10 @@ dependencies:
 dependency_overrides:
   background_locator_2:
     git:
-      url: https://github.com/hieudz/background_locator_fixed
-      ref: bbe07e6a1308350c820753419625a9b1e544e128
-#      url: https://github.com/Yukams/background_locator_fixed
+      url: https://github.com/Yukams/background_locator_fixed
 #      ref: 652fc025ca0d39d43afa62e2aacef64aa5f6a147
+#      url: https://github.com/hieudz/background_locator_fixed
+#      ref: bbe07e6a1308350c820753419625a9b1e544e128
 
 dev_dependencies:
   flutter_test:
